@@ -1,10 +1,10 @@
 {
-  "name": "helioslauncher",
-  "version": "1.9.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
-  "license": "UNLICENSED",
+  "name": "astromodslauncher",
+  "version": "1.0.4",
+  "productName": "AstroMods Launcher",
+  "description": "AstroMods Launcher",
+  "author": "BeeFx_ (https://github.com/BeeeeFx)",
+  "license": "All Rights Reserved",
   "homepage": "https://github.com/dscalzi/HeliosLauncher",
   "bugs": {
     "url": "https://github.com/dscalzi/HeliosLauncher/issues"
